@@ -1,0 +1,47 @@
+body{
+   background : black 
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+.header p{
+text-align: end;
+color: white;
+font-size: 20px;
+}
+input{
+background: transparent;
+border: 2px solid white;
+font-size: 50px;
+color: white;
+width: 160px;
+border-radius: 15px;
+text-align: center;
+margin-left: 45%;
+margin-top: 10%;
+}
+p{
+    text-align: center;
+    color: white;
+}
+button{
+    text-align: center;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+.gamebutton{
+    margin-left:44% ;
+}
+button:hover{
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
+script{
+    color: white;
+}
